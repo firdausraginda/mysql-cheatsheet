@@ -1,0 +1,10 @@
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('66280', 3, true);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('73045', 3, false);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('98207', 2, null);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('69205', 2, false);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('34332', 4, true);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('21964', 4, true);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('57775', null, true);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('00334', 3, true);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('72400', 2, null);
+insert into db_agi.info_mata_kuliah (id_mata_kuliah, beban_sks, butuh_praktek) values ('74276', 3, true);
