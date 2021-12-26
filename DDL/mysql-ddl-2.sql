@@ -1,8 +1,23 @@
 CREATE TABLE IF NOT EXISTS db_agi.mahasiswa (
 	nim VARCHAR(5) PRIMARY KEY,
 	nama VARCHAR(255) NOT NULL,
-	jurusan VARCHAR(255),
-	semester INT(1)
+    semester INT(1)
+);
+
+CREATE TABLE IF NOT EXISTS db_agi.dosen (
+	nip VARCHAR(5) PRIMARY KEY,
+	nama VARCHAR(255) NOT NULL,
+	status_mengajar ENUM('aktif', 'tidak aktif')
+);
+
+CREATE TABLE IF NOT EXISTS db_agi.mata_kuliah (
+	id VARCHAR(5) PRIMARY KEY,
+	nama VARCHAR(255) UNIQUE,
+	deskripsi VARCHAR(255) NOT NULL,
+	nip VARCHAR(5),
+	FOREIGN KEY (nip) 
+	    REFERENCES db_agi.dosen(nip) 
+	    ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS db_agi.pengambilan_mata_kuliah (
