@@ -1,0 +1,10 @@
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('33325', '96576', '66280');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('95773', '96576', '73045');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('35747', '96576', '98207');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('40750', '71099', '69205');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('33159', '78365', '69205');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('40802', '74556', '21964');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('20655', '07793', '57775');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('24878', '07793', '00334');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('98074', '24254', '21964');
+insert into db_agi.pengambilan_mata_kuliah (id, nim, id_mata_kuliah) values ('23228', '56627', '74276');
