@@ -1,0 +1,10 @@
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('17643', 'Salomo', 'aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('90300', 'Margaret', 'tidak aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('03640', 'Carly', 'aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('81116', 'Genny', 'tidak aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('84646', 'Wallace', null);
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('91678', 'Dasie', 'tidak aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('45694', 'Boyce', null);
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('70578', 'Kim', 'aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('13071', 'Thebault', 'aktif');
+insert into db_agi.dosen (nip, nama, status_mengajar) values ('53882', 'Lorry', 'aktif');
