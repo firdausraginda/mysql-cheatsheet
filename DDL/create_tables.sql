@@ -17,7 +17,8 @@ CREATE TABLE IF NOT EXISTS db_agi.mata_kuliah (
 	nip VARCHAR(5),
 	FOREIGN KEY (nip) 
 	    REFERENCES db_agi.dosen(nip) 
-	    ON DELETE CASCADE
+	    ON DELETE CASCADE 
+		ON UPDATE SET NULL
 );
 
 CREATE TABLE IF NOT EXISTS db_agi.pengambilan_mata_kuliah (

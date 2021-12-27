@@ -81,4 +81,5 @@ ADD PRIMARY KEY (id);
 ALTER TABLE db_agi.mata_kuliah
 ADD FOREIGN KEY (nip) 
     REFERENCES db_agi.dosen(nip) 
-    ON DELETE CASCADE;
+    ON DELETE CASCADE 
+	ON UPDATE SET NULL;
