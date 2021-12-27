@@ -1,0 +1,10 @@
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('66280', 'Law', 'consequat lectus in est risus auctor sed tristique in tempus sit amet sem');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('73045', 'Engineering', 'non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('98207', 'Accounting', 'curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('69205', 'Art', 'turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('34332', 'Management', 'hac habitasse platea dictumst etiam faucibus cursus urna ut tellus');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('21964', 'Sport', 'neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('57775', 'Communication', 'integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('00334', null, 'vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('72400', null, 'tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor');
+insert into db_agi.mata_kuliah (id, nama, deskripsi) values ('74276', 'Business', 'ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis');
