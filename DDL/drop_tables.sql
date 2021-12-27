@@ -9,7 +9,6 @@ DROP TABLE db_agi.dosen ;
 DELETE FROM db_agi.mata_kuliah
 WHERE nip is null;
 
-ALTER TABLE db_agi.mata_kuliah 
-DROP FOREIGN KEY nip;
+-- need to remove foreign key manually from dbeaver
 
-DELETE FROM db_agi.dosen  ;
+DELETE FROM db_agi.dosen ;
